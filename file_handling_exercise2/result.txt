@@ -1,0 +1,24 @@
+gitignore
+iml
+xml
+py
+txt
+pth
+typed
+pem
+exe
+cfg
+INSTALLER
+METADATA
+RECORD
+WHEEL
+virtualenv
+tmpl
+LICENSE
+pyc
+activate
+bat
+fish
+ps1
+xsh
+- - - activate.xsh
