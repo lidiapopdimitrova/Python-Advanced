@@ -1,2 +1,3 @@
 # Python-Advanced
 In the "Python Advanced" module, the Python language is studied in depth, studying more serious and complex concepts in programming such as tuples, stacks, queues, matrices and their application in practice. In addition, students will learn to use the basic concepts of object-oriented programming and create their own projects using these concepts. As a result of the acquired knowledge, at the end of the module, students will be able to build large projects, navigate them, applying popular methodologies and good practices for writing code. The focus is on building students' algorithmic thinking and solving more complex architectural problems.
+
